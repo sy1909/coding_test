@@ -1,7 +1,15 @@
-# Data Structre (자료구조)
-### 출처 : https://github.com/tony9402/baekjoon/blob/main/data_structure/README.md
-[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
+# Algorithm(Coding Test) 준비
 
+## 백준, 프로그래머스 문제풀이 / 파이썬 알고리즘 인터뷰 책 리뷰
+진행방식
+- 매일 2-6시 문제풀이, 책 요약 진행
+- MarkDown 형태로 자료를 정리
+- 파이썬 알고리즘 인터뷰 책 이용
+
+
+
+
+# 아래 수정중
 이 자료구조에서는 큐, 스택, 덱을 익히는 문제들로 뽑았습니다.
 
 풀어보면 좋을 문제는 추천 문제에 체크(:heavy_check_mark:) 해놨습니다.
