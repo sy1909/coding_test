@@ -21,6 +21,6 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6779)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |        
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |    | <a href="https://www.acmicpc.net/problem/13460" target="_blank">1158</a> | <a href="https://www.acmicpc.net/problem/13460" target="_blank">구슬 탈출2</a> | 
+| 00 |  ::  | <a href="https://www.acmicpc.net/problem/13460" target="_blank">1158</a> | <a href="https://www.acmicpc.net/problem/13460" target="_blank">구슬 탈출2</a> | 
 | 01 |  ::  | <a href="https://www.acmicpc.net/problem/14503" target="_blank">10828</a> | <a href="https://www.acmicpc.net/problem/14503" target="_blank">로봇 청소기</a> | 
 
